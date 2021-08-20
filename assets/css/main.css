@@ -1,3 +1,23 @@
 BODY {
     font-family: 'Rubik', sans-serif !important;
 }
+
+.card.sponsor {
+  width:25%;
+  margin:0 auto;
+  text-align:center;
+}
+.card.sponsor h4 {
+  margin-top:5px;
+  font-weight:400 !important;
+  font-family:'Rubik', sans-serif !important;
+  min-height:75px;
+}
+
+.card.maint {
+  width:25%;
+  margin:0 auto;
+}
+.card-title {
+  min-height:75px;
+}
